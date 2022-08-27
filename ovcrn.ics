@@ -29,7 +29,7 @@ DTSTART;TZID=America/New_York:20220829T190000
 RRULE:FREQ=MONTHLY;BYDAY=-1MO
 DTEND;TZID=America/New_York:20220829T220000
 SUMMARY:Open VCR Night
-URL:http://openvcrnight.yell.nyc
+URL:https://openvcrnight.yell.nyc
 DESCRIPTION:1. BYO VHS or borrow one of ours\n2. Anyone may eject at any time\n3. If you eject\, you must INSERT TAPE
 LOCATION:Wonderville: 1186 Broadway\, Brooklyn\, NY
 END:VEVENT
