@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "rewrites": [{
+    "source": "/",
+    "destination": "/ovcrn.ics"
+  }],
+  "github": {
+    "silent": true
+  }
+}
